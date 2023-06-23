@@ -1,10 +1,8 @@
-html li.c-nav-list-item .c-nav-item-rewards {
-  font-weight: 500 !important;
-  font-family: "Poppins", san-serif !important;
+html, body {
+    background-color: aquamarine !important;
 }
 
-html,body,header {
-
-    background: red;
-    background-color: red;
+li.c-nav-list-item .c-nav-item-rewards {
+  font-weight: 500 !important;
+  font-family: "Poppins", san-serif !important;
 }
